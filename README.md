@@ -42,15 +42,11 @@ Hello, I'm A'isy Muhammad Zain, a recent graduate from Universitas Pendidikan In
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&theme=github_dark" alt="Aisy's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=aisymz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aisymz&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
-</p>
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aisymz&github_dark" alt="aisymz" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=aisymz&theme=github_dark" alt="aisymz" />
 </p>
