@@ -30,24 +30,23 @@ Hello, I'm A'isy Muhammad Zain, a recent graduate from Universitas Pendidikan In
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![Aisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&bg_color=1a1b27&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff&hide_border=true)
+![Aisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aisymz&github_dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=aisymz&theme=tokyonight&hide_border=true)
+
+---
+
+### 📊 GitHub Stats:
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&github_dark" alt="Aisy's GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=aisymz&github_dark&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&theme=github_dark" alt="Aisy's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=aisymz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&github_dark" alt="Top Langs" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&theme=github_dark" alt="Top Langs" />
+</p>
 </p>
 
 <p align="center">
