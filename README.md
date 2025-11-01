@@ -30,7 +30,7 @@ Hello, I'm A'isy Muhammad Zain, a recent graduate from Universitas Pendidikan In
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![Aisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&theme=tokyonight)
+![Aisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&bg_color=1a1b27&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&theme=tokyonight)
 
