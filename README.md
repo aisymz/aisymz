@@ -26,15 +26,11 @@ Hello, I'm A'isy Muhammad Zain, a recent graduate from Universitas Pendidikan In
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&theme=tokyonight" alt="Aisy's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=aisymz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&theme=tokyonight" alt="Top Langs" width="40%" />
-</p>
+![Aisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aisymz&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=aisymz&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&theme=tokyonight)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aisymz&theme=tokyonight&no-frame=true&column=4)
