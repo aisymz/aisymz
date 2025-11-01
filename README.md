@@ -1,11 +1,14 @@
 # 💫 About Me:
 
-Halo, saya A'isy Muhammad Zain, seorang Fresh Graduate dari Universitas Pendidikan Indonesia, Jurusan Pendidikan Geografi (2024) yang kini mengalihkan fokus karier ke dunia teknologi. Melalui bootcamp intensif Full Stack Developer di Harisenin, saya menemukan minat mendalam menjadi Front-End Developer. Saya bersemangat dalam membangun antarmuka pengguna (UI) yang responsif, intuitif dan fungsional.
+Hello, I'm A'isy Muhammad Zain, a recent graduate from Universitas Pendidikan Indonesia with a degree in Geography Education (2024), now shifting my career focus to the technology industry. Through an intensive Full Stack Developer bootcamp at Harisenin, I discovered a deep interest in becoming a Front-End Developer. I am passionate about building user interfaces (UI) that are responsive, intuitive, and functional.
 
-- 🔭 Saat ini saya sedang mencari kesempatan kerja sebagai Front-End Developer.
-- 🌱 Saya sedang memperdalam React.js, Redux, dan teknologi web modern lainnya.
-- 📫 Hubungi saya: **zainaisy23@gmail.com**
-- 😄 Fun fact: Saya menikmati proses mengubah ide kompleks menjadi solusi digital yang user-friendly.
+🔭 I am currently looking for job opportunities as a Front-End Developer.
+
+🌱 I am currently deepening my skills in React.js, Redux, and other modern web technologies.
+
+📫 How to reach me: zainaisy23@gmail.com
+
+😄 Fun fact: I enjoy the process of turning complex ideas into user-friendly digital solutions.
 
 ---
 
@@ -26,3 +29,20 @@ Halo, saya A'isy Muhammad Zain, seorang Fresh Graduate dari Universitas Pendidik
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Aisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aisymz&theme=tokyonight&hide_border=true)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&theme=tokyonight" alt="Aisy's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=aisymz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aisymz&theme=tokyonight" alt="aisymz" />
+</p>
