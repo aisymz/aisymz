@@ -38,15 +38,20 @@ Hello, I'm A'isy Muhammad Zain, a recent graduate from Universitas Pendidikan In
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1"/>
 
 
-![Aisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=ff7f00&bg_color=1a1b27&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&bg_color=1A1B27&title_color=FFFFFF&text_color=C9D1D9&hide_border=true)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aisymz&show_icons=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=ff7f00&bg_color=1a1b27&hide_border=true" alt="Aisy's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisymz&layout=compact&bg_color=1A1B27&title_color=FFFFFF&text_color=C9D1D9&hide_border=true" alt="Top Langs" />
+</p>
 
 ### 🔥 Contribution Streak:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1"/>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=aisymz&background=1A1B27&ring=4CBB17&fire=ff7f00&currStreakNum=FFFFFF&currStreakLabel=4CBB17&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aisymz&background=1A1B27&ring=4CBB17&fire=ff7f00&currStreakNum=FFFFFF&currStreakLabel=4CBB17&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9&hide_border=true)
 
 
 ### 🏆 GitHub Trophies:
