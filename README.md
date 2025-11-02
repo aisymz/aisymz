@@ -49,7 +49,7 @@ Hello, I'm A'isy Muhammad Zain, a recent graduate from Universitas Pendidikan In
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1"/>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=aisymz&background=1A1B27&ring=4CBB17&fire=ff7f00&currStreakNum=FFFFFF&currStreakLabel=4CBB17&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aisymz&background=1A1B27&ring=ff7f00&fire=ff7f00&currStreakNum=FFFFFF&currStreakLabel=ff7f00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
